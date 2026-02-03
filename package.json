@@ -1,0 +1,23 @@
+{
+  "name": "bigproject",
+  "version": "1.0.0",
+  "description": "this is a backend projectgit",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ranjan-githu/BigbackendPr.git"
+  },
+  "author": "Ranjan gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ranjan-githu/BigbackendPr/issues"
+  },
+  "homepage": "https://github.com/Ranjan-githu/BigbackendPr#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
